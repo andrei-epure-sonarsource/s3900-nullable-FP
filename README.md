@@ -7,4 +7,5 @@ See SonarCloud scan results: https://sonarcloud.io/summary/overall?id=2021-12-23
 I've used:
 - MSBuild 17.0.0.52104
 - SonarScanner for MSBuild 5.4
+- SonarCloud sonar-csharp-plugin 8.33.0.40503
 
